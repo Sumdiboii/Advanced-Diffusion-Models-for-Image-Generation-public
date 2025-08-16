@@ -30,6 +30,27 @@
 
 ---
 
+<p align="center">
+ 
+  <img src="read-me-images/Screenshot 2025-08-16 154112.png" alt="Screenshot 154112" />
+<br>
+  <img src="read-me-images/Screenshot 2025-08-16 154018.png" alt="Screenshot 154018" />
+  <br>
+  <img src="read-me-images/Screenshot 2025-08-16 154028.png" alt="Screenshot 154028" />
+  <br>
+  <img src="read-me-images/Screenshot 2025-08-16 154038.png" alt="Screenshot 154038" />
+  <br>
+  <img src="read-me-images/Screenshot 2025-08-16 154046.png" alt="Screenshot 154046" />
+  <br>
+  <img src="read-me-images/Screenshot 2025-08-16 154055.png" alt="Screenshot 154055" />
+  <br>
+  <img src="read-me-images/Screenshot 2025-08-16 154104.png" alt="Screenshot 154104" />
+
+</p>
+
+
+---
+
 ## 🚀 Features
 
 ### 🎨 AI Model Selection
@@ -42,15 +63,21 @@
   - FLUX.1-schnell  
 - Each model displays **parameters, strengths, weaknesses, and best use cases**.
 
+ <br>
+
 ### 🖼️ Image Generation
 - Input prompts or optionally upload a reference image.  
 - Generate images via the selected model using **Hugging Face API**.  
 - Download or open generated images in a new window.
 
+ <br>
+
 ### 📚 History
 - Stores up to **50 previous generations** locally.  
 - View **thumbnails, prompts, model used, and generation date**.  
 - Reload previous generations or clear history easily.
+
+ <br>
 
 ### 📊 Analytics Dashboard
 - Real-time metrics: total generations, success rate, average generation time.  
@@ -63,16 +90,26 @@
   - Last image thumbnail  
   - Cost efficiency (all models free)
 
+ <br>
+
 ### 💡 Smart Recommendations
 - Prompt suggestions based on **selected model, style enhancements, and popular keywords**.
 
+
+ <br>
+ 
 ### 🌙 Responsive UI
 - Desktop & mobile navigation  
 - Light/Dark theme toggle  
 - Clean, modern design combining **Tailwind CSS and custom/vanilla CSS**  
 
+
+ <br>
+ 
 ---
 
+ <br>
+ 
 ## ⚙️ Technical Details
 - **Frontend:** React 18  
 - **Styling:** Tailwind CSS + custom/vanilla CSS for specific overrides  
@@ -81,8 +118,12 @@
 - **No Backend Required:** All analytics and history are calculated client-side  
 - **Accessibility:** ARIA labels, keyboard navigation, responsive design  
 
+ <br>
+ 
 ---
 
+ <br>
+ 
 ## 🛠️ How It Works
 1. **Select a Model:** Browse the models guide and pick the best fit.  
 2. **Enter a Prompt:** Describe your desired image. Optionally upload a reference image.  
@@ -90,8 +131,12 @@
 4. **Analyze & Compare:** Use analytics to compare performance, trends, and get smart recommendations.  
 5. **History:** Access previous generations, reload prompts, and manage history.
 
+ <br>
+ 
 ---
 
+ <br>
+ 
 ## 🧩 Models Supported
 - Stable Diffusion XL Base 1.0  
 - Stable Diffusion 2.1  
@@ -100,22 +145,34 @@
 - FLUX.1-dev  
 - FLUX.1-schnell
 
+ <br>
+ 
 ---
 
+ <br>
+ 
 ## 📈 Analytics & Metrics
 - All metrics are calculated in **real time** from local history.  
 - No hardcoded or random values.  
 - Metrics include: usage, prompt length, recent usage, speed, and last image thumbnail.
 
+ <br>
+ 
 ---
 
+ <br>
+ 
 ## 💡 Smart Recommendations
 - Model-specific tips  
 - Style enhancements  
 - Popular keywords from successful generations  
 
+ <br>
+ 
 ---
 
+ <br>
+ 
 ## 📬 Contact
 <table align="center">
   <tr>
@@ -132,7 +189,9 @@
   </tr>
   <tr>
     <td>💻 GitHub</td>
+     <br>
     <td><a href="https://github.com/Sumdiboii" target="_blank">github.com/Sumdiboii</a></td>
   </tr>
 </table>
 
+<br>
